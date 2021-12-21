@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/waqar/static/css/main.0ac72a57.chunk.css",
+    "main.js": "/waqar/static/js/main.287eaae1.chunk.js",
+    "main.js.map": "/waqar/static/js/main.287eaae1.chunk.js.map",
+    "runtime-main.js": "/waqar/static/js/runtime-main.c7b918f0.js",
+    "runtime-main.js.map": "/waqar/static/js/runtime-main.c7b918f0.js.map",
+    "static/js/2.3fed3999.chunk.js": "/waqar/static/js/2.3fed3999.chunk.js",
+    "static/js/2.3fed3999.chunk.js.map": "/waqar/static/js/2.3fed3999.chunk.js.map",
+    "static/js/3.58b6d914.chunk.js": "/waqar/static/js/3.58b6d914.chunk.js",
+    "static/js/3.58b6d914.chunk.js.map": "/waqar/static/js/3.58b6d914.chunk.js.map",
+    "index.html": "/waqar/index.html",
+    "static/css/main.0ac72a57.chunk.css.map": "/waqar/static/css/main.0ac72a57.chunk.css.map",
+    "static/js/2.3fed3999.chunk.js.LICENSE.txt": "/waqar/static/js/2.3fed3999.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c7b918f0.js",
+    "static/js/2.3fed3999.chunk.js",
+    "static/css/main.0ac72a57.chunk.css",
+    "static/js/main.287eaae1.chunk.js"
+  ]
+}
